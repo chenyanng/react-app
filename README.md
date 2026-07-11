@@ -33,7 +33,7 @@ slice、splice、substring、substr ✅
 字符串的方法 ✅
 模版字符串 ✅
 
-1
+2
 
 git rebase和git merge
 自定义hooks
